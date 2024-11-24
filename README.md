@@ -1,22 +1,25 @@
-# Desafio 01: Criando sua primeira Landing Page com HTML e CSS
+## 🙂 Bootcamp RI HAPPY na [DIO](https://web.dio.me/track/coding-future-front-end-do-zero): Criando uma Landing Page com HTML e CSS
 
-Bem vindo(a) ao primeiro desafio da Trilha de CSS da DIO! Nela, você vai construir sua primeira Landing Page com HTML e CSS, colocando em prática os fundamentos do CSS,
-as propriedades básicas da linguagem de estilização, além de trabalhar com as unidades de medidas relativas e absolutas que aprendemos ao longo da trilha.
+### 💻 Objetivo:
+##### A proposta da atividade era estilar uma página HTML utilizando as regras básicas de CSS aprendidas durante o curso.
 
-[Clique aqui](https://micheleambrosio.github.io/dio-trilha-css-desafio-01/) para acessar o resultado final da Landing Page criada a partir do desafio!
+### ▶️ O que foi disponibilizado:
+* index.html
+* assets
+* README.md
+* Layout da página criado no [Figma](https://www.figma.com/design/3PiokoJj9IhGDnNiWAJbz7/DIO---Desafio-01?node-id=0-1&node-type=canvas&t=kJlwELw9NNogZarQ-0)
 
-![image](https://user-images.githubusercontent.com/55519539/183538055-6cce606c-7d1d-4d15-a4be-ffeb5b37c956.png)
+## ✔️ Resultado:
 
-Para você realizar o desafio, basta fazer um **fork** para o seu GitHub e começar a mexer no projeto.
-Dentro da pasta *main*, você vai encontrar todas as imagens e o arquivo HTML, contendo a estrutura básica da sua página, faltando apenas
-realizar a estilização da sua página. É necessário que você faça toda a parte responsável por interligar sua página HTML com suas folhas
-de estilo para que o resultado da estilização funcione.
+### ↙️ Antes:
+<img width="320" alt="Captura de Tela 2024-11-24 às 13 34 49" src="https://github.com/user-attachments/assets/88017752-2100-47b9-9206-d4368a20064a">
 
-[Link do Figma](https://www.figma.com/file/3PiokoJj9IhGDnNiWAJbz7/DIO---Desafio-01?node-id=2%3A6) contendo o protótipo do desafio para
-que você possa se basear.
+### ↘️ Depois:
+![Desktop - 1](https://github.com/user-attachments/assets/32ea4ffb-3735-4562-be29-e34230e5b90d)
 
-*Observações: para aplicar os textos em gradiente, utilize a propriedade CSS background-clip, porém, para funcionar em alguns navegadores,
-é necessário utilizar a propriedade -webkit-background-clip: text;*
+## 💡 Conclusão:
+##### Foi um ótimo exercício para praticar o que vem sendo ensinado durante as aulas. Sendo minha primeira vez realizando algo do gênero, senti certa dificuldade no começo, mas consegui concluir a tarefa. Ainda preciso melhorar bastante minha Lógica de Programação, pois tive a sensação que acabei usando mais código do que o necessário. Isso é algo que com certeza irei aperfeiçoar com o tempo. Apesar disso, fiquei bastante satisfeita com o resultado 😃.
 
-Caso tenha alguma dúvida, ou queira comparar o resultado do desafio que você fez, nós temos o site finalizado na branch *final*. Basta alterar a branch do projeto
-utilizando o comando `git checkout final` no seu terminal.
+*Obrigada por acompanhar até aqui 👋🏻*
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julianamaltap/)
