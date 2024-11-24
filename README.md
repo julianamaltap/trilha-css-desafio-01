@@ -1,7 +1,7 @@
 ## 🙂 Bootcamp RI HAPPY na [DIO](https://web.dio.me/track/coding-future-front-end-do-zero): Criando uma Landing Page com HTML e CSS
 
 ### 💻 Objetivo:
-##### A proposta da atividade era estilar uma página HTML utilizando as regras básicas de CSS aprendidas durante o curso.
+##### A proposta da atividade era estilizar uma página HTML utilizando as regras básicas de CSS aprendidas durante o curso.
 
 ### ▶️ O que foi disponibilizado:
 * index.html
